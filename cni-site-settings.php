@@ -1,11 +1,13 @@
 <?php
 /*
 Plugin Name: CNI Site Settings
-Plugin URI:  http://seo.cni.jp/
+Plugin URI:  https://wordpress.org/plugins/cni-site-settings/
+Text Domain: cni-site-settings
+Domain Path: /languages
 Description: It makes easier to manege your site with this plugin.
 Version:     0.0.1
-Author:      CYBER NETWORKS
-Author URI:  http://www.cni.jp/
+Author:      CYBER NETWORKS Inc.
+Author URI:  http://seo.cni.jp/
 License:     GPLv2
 */
 
