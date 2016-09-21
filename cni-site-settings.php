@@ -5,14 +5,12 @@ Plugin URI:  https://wordpress.org/plugins/cni-site-settings/
 Text Domain: cni-site-settings
 Domain Path: /languages
 Description: It makes easier to manege your site with this plugin.
-Version:     0.0.1
+Version:     0.0.2
 Author:      CYBER NETWORKS Inc.
 Author URI:  http://seo.cni.jp/
 License:     GPLv2
 */
 
-
-load_plugin_textdomain( 'cni-site-settings', false, basename( dirname( __FILE__ ) ) . '/languages' );
 
 class cni_site_settings
 {
@@ -232,3 +230,6 @@ if( get_cni_visual_editor() ) {
     }
 }
 
+add_action( 'plugins_loaded', function() {
+    load_plugin_textdomain( 'cni-site-settings', false, basename( dirname( __FILE__ ) ) . '/languages' );
+} );

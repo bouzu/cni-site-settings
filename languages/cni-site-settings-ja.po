@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CNI Site Settings\n"
-"POT-Creation-Date: 2016-04-06 18:38+0900\n"
-"PO-Revision-Date: 2016-04-06 18:40+0900\n"
+"POT-Creation-Date: 2016-04-08 15:51+0900\n"
+"PO-Revision-Date: 2016-04-08 15:51+0900\n"
 "Last-Translator: cnibouzu <tsukada@cni.jp>\n"
 "Language-Team: cnibouzu <tsukada@cni.jp>\n"
 "Language: ja\n"
@@ -21,50 +21,50 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
 #. Plugin Name of the plugin/theme
-#: cni-site-settings.php:29 cni-site-settings.php:79
+#: cni-site-settings.php:27 cni-site-settings.php:77
 msgid "CNI Site Settings"
 msgstr "CNI サイト設定"
 
-#: cni-site-settings.php:48
+#: cni-site-settings.php:46
 msgid "Please select the item of \"Major update\"."
 msgstr "「メジャーアップデート」の項目を選択してください。"
 
-#: cni-site-settings.php:51
+#: cni-site-settings.php:49
 msgid "Please select the item of \"Update Themes\"."
 msgstr "「テンプレートの更新」の項目を選択してください。"
 
-#: cni-site-settings.php:54
+#: cni-site-settings.php:52
 msgid "Please select the item of \"Update Plugins\"."
 msgstr "「プラグインの更新」の項目を選択してください。"
 
-#: cni-site-settings.php:57
+#: cni-site-settings.php:55
 msgid "Please select the item of \"Autosave\"."
 msgstr "「自動保存」の項目を選択してください。"
 
-#: cni-site-settings.php:60
+#: cni-site-settings.php:58
 msgid "Please select the item of \"Use Visual editor\"."
 msgstr "「ビジュアルエディタの利用」の項目を選択してください。"
 
-#: cni-site-settings.php:66
+#: cni-site-settings.php:64
 msgid "Your settings have been saved."
 msgstr "設定を保存しました。"
 
-#: cni-site-settings.php:80
+#: cni-site-settings.php:78
 msgid "Manage your site settings easily."
 msgstr "簡単にサイト設定を管理できます。"
 
-#: cni-site-settings.php:105
+#: cni-site-settings.php:103
 msgid "Major update"
 msgstr "メジャーアップデート"
 
-#: cni-site-settings.php:107
+#: cni-site-settings.php:105
 msgid ""
 "In WordPress, Minor updates (Example:\"4.4.1\" to \"4.4.2\") is done "
 "automatically."
 msgstr ""
 "WordPressは、マイナーアップデート（例：4.4.1→4.4.2）を自動的に行います。"
 
-#: cni-site-settings.php:108
+#: cni-site-settings.php:106
 msgid ""
 "If you want to be done Major updates (Example:\"4.4.x\" to \"4.5\") too, "
 "please select \"Automatically\"."
@@ -72,67 +72,67 @@ msgstr ""
 "メジャーアップデート（例：4.4.x→4.5）も自動的に行いたい場合は、「自動更新」"
 "を選んでください。"
 
-#: cni-site-settings.php:109 cni-site-settings.php:118
-#: cni-site-settings.php:127
+#: cni-site-settings.php:107 cni-site-settings.php:116
+#: cni-site-settings.php:125
 msgid "Default is \"Manually\"."
 msgstr "デフォルトは「手動更新」。"
 
-#: cni-site-settings.php:112 cni-site-settings.php:121
-#: cni-site-settings.php:130
+#: cni-site-settings.php:110 cni-site-settings.php:119
+#: cni-site-settings.php:128
 msgid "Automatically"
 msgstr "自動更新"
 
-#: cni-site-settings.php:113 cni-site-settings.php:122
-#: cni-site-settings.php:131
+#: cni-site-settings.php:111 cni-site-settings.php:120
+#: cni-site-settings.php:129
 msgid "Manually"
 msgstr "手動更新"
 
-#: cni-site-settings.php:115
+#: cni-site-settings.php:113
 msgid "Update Themes"
 msgstr "テーマ（テンプレート）の更新"
 
-#: cni-site-settings.php:117
+#: cni-site-settings.php:115
 msgid ""
 "If you want to be done Themes' updates automatically, please select "
 "\"Automatically\"."
 msgstr "テーマの更新を自動的に行いたい場合は、「自動更新」を選んでください。"
 
-#: cni-site-settings.php:124
+#: cni-site-settings.php:122
 msgid "Update Plugins"
 msgstr "プラグインの更新"
 
-#: cni-site-settings.php:126
+#: cni-site-settings.php:124
 msgid ""
 "If you want to be done Plugins' updates automatically, please select "
 "\"Automatically\"."
 msgstr ""
 "プラグインの更新を自動的に行いたい場合は、「自動更新」を選んでください。"
 
-#: cni-site-settings.php:133
+#: cni-site-settings.php:131
 msgid "Autosave"
 msgstr "自動保存"
 
-#: cni-site-settings.php:135
+#: cni-site-settings.php:133
 msgid "If you want to cancel the editor's autosave, please select \"Off\"."
 msgstr "自動保存機能を解除したい場合は、「無効」を選んでください。"
 
-#: cni-site-settings.php:136 cni-site-settings.php:145
+#: cni-site-settings.php:134 cni-site-settings.php:143
 msgid "Default is \"On\"."
 msgstr "デフォルトは「有効」。"
 
-#: cni-site-settings.php:139 cni-site-settings.php:148
+#: cni-site-settings.php:137 cni-site-settings.php:146
 msgid "On"
 msgstr "有効"
 
-#: cni-site-settings.php:140 cni-site-settings.php:149
+#: cni-site-settings.php:138 cni-site-settings.php:147
 msgid "Off"
 msgstr "無効"
 
-#: cni-site-settings.php:142
+#: cni-site-settings.php:140
 msgid "Use the visual editor"
 msgstr "ビジュアルエディタの利用"
 
-#: cni-site-settings.php:144
+#: cni-site-settings.php:142
 msgid "If you want to use the text editor only, please select \"Off\"."
 msgstr "テキストエディタのみを利用したい場合は、「無効」を選んでください。"
 
